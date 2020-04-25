@@ -3,4 +3,4 @@ title: Hello World!
 author: Ankit Bhatia
 layout: post
 ---
-What better way is there to kick off a brand new website than with a cheesy Hello World!
+This post commemorates the creation of this website. It feels somewhat empty at this moment, but I hope to improve on it by adding some of my work from robotics as well as school.
