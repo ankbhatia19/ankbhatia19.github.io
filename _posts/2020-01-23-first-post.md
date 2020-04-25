@@ -1,5 +1,5 @@
 ---
-title: Hello World!
+title: My First Post
 author: Ankit Bhatia
 layout: post
 ---
